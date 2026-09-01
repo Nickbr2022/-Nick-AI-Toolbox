@@ -17,10 +17,13 @@ Hub pessoal organizado para IA, automação, trading, criação visual, APIs e s
 1. TradingAgents — https://github.com/TauricResearch/TradingAgents
 2. n8n — https://github.com/n8n-io/n8n
 3. browser-use — https://github.com/browser-use/browser-use
-4. ComfyUI — https://github.com/comfyanonymous/ComfyUI
-5. LangGraph — https://github.com/langchain-ai/langgraph
-6. public-apis — https://github.com/public-apis/public-apis
-7. Ollama — https://github.com/ollama/ollama
+4. Firecrawl — https://github.com/firecrawl/firecrawl
+5. Open WebUI — https://github.com/open-webui/open-webui
+6. ComfyUI — https://github.com/comfyanonymous/ComfyUI
+7. LangGraph — https://github.com/langchain-ai/langgraph
+8. Freqtrade — https://github.com/freqtrade/freqtrade
+9. public-apis — https://github.com/public-apis/public-apis
+10. Ollama — https://github.com/ollama/ollama
 
 ## Regra de organização
 
